@@ -1,0 +1,15 @@
+{
+  "name": "legendecryptor",
+  "version": "3.4.4",
+  "description": "Decodification Tool",
+  "main": "legendecryptor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HACK_K",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "fast-xml-parser": "^3.21.1",
+    "html-entities": "^1.4.0"
+  }
+}
